@@ -54,11 +54,11 @@
 }
 
 .MC {
-  color: var(--title);
+  display: none;
 }
 
 .D .MC {
-  color: var(--ntitle);
+  display: none;
 }
 
 
