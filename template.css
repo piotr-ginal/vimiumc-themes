@@ -47,7 +47,7 @@
 }
 
 .D .LH {
-  color: var(--nfg);
+  color: var(--nborder);
   border: 1px solid var(--nborder);
   background: var(--nbg);
   box-shadow: var(--shadow);
